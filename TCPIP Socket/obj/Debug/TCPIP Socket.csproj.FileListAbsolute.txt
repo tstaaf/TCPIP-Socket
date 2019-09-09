@@ -1,0 +1,24 @@
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\bin\Debug\TCPIP Socket.exe.config
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\bin\Debug\TCPIP Socket.exe
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\bin\Debug\TCPIP Socket.pdb
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\TCPIP Socket.csprojAssemblyReference.cache
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\MainWindow.g.cs
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\App.g.cs
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\TCPIP Socket_MarkupCompile.cache
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\TCPIP Socket_MarkupCompile.lref
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\MainWindow.baml
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\TCPIP Socket.g.resources
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\TCPIP_Socket.Properties.Resources.resources
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\TCPIP Socket.csproj.GenerateResource.cache
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\TCPIP Socket.csproj.CoreCompileInputs.cache
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\TCPIP Socket.exe
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\TCPIP Socket.pdb
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\C41Window.g.cs
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\C41Window.baml
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\CodeNet.g.cs
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\CodeNet.baml
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\MSeriesUC.g.cs
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\MSeriesUC.baml
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\AxSeriesUC.g.cs
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\AxSeriesUC.baml
+C:\Users\timmy.staaf\source\repos\TCPIP Socket\TCPIP Socket\obj\Debug\App.baml
